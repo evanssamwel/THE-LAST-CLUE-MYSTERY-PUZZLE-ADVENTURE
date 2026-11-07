@@ -1,0 +1,6 @@
+{
+  "name": "The Last Clue - Mystery Puzzle Adventure",
+  "description": "An elegant mystery-solving puzzle game where players investigate crime scenes, uncover hidden clues, solve logic puzzles, and identify suspects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
